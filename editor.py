@@ -62,6 +62,6 @@ menu.add_cascade(label = "Help", menu=helpmenu)
 helpmenu.add_command(label="About", command=dummy)
 
 # button = Button(root, text="Useless")
-# button.pack()
+# butto n.pack()
 
 root.mainloop()
